@@ -10,6 +10,7 @@ public class TestContoller {
 	@RequestMapping("/")
 	public String getMEthod1()
 	{
+		System.out.println("hai");
 		return "firstJSP";
 	}
 }
