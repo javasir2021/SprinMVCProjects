@@ -1,0 +1,5 @@
+com\spring\example\WebJSPConfig.class
+com\spring\example\Customer.class
+com\spring\example\JPAConfiguration.class
+com\spring\example\WebXmlInitilizer.class
+com\spring\example\TestContoller.class
